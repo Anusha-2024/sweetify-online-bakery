@@ -54,13 +54,13 @@ http://localhost:3000 🚀
 ## 📸 Screenshots
 
 ### 🖼️ Home Page
-![Home Page]()
+![Home Page](https://github.com/Anusha-2024/sweetify-online-bakery/blob/main/Screenshot%202025-06-17%20224658.png?raw=true)
 
 ### 🏠 Menu Page
-![Menu Page]()
+![Menu Page](https://github.com/Anusha-2024/sweetify-online-bakery/blob/main/Screenshot%202025-06-17%20224805.png?raw=true)
 
 ###  Checkout Page
-![Checkout Page]()
+![Checkout Page](https://github.com/Anusha-2024/sweetify-online-bakery/blob/main/Screenshot%202025-06-17%20224835.png?raw=true)
 
 ---
 
