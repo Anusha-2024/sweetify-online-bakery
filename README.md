@@ -49,7 +49,7 @@ This will launch the app in your browser at:
 http://localhost:3000 🚀
 ```
 
-## 🤝 Contributing
+## 🤝 Contributions
 - Contributions are welcome! 🍩
 - Please fork the repository and open a pull request with your changes.
 
