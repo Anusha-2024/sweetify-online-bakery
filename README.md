@@ -51,6 +51,19 @@ http://localhost:3000 🚀
 
 ---
 
+## 📸 Screenshots
+
+### 🖼️ Home Page
+![Home Page]()
+
+### 🏠 Menu Page
+![Menu Page]()
+
+###  Checkout Page
+![Checkout Page]()
+
+---
+
 ## 🤝 Contributions
 - Contributions are welcome! 🍩
 - Please fork the repository and open a pull request with your changes.
