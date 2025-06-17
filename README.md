@@ -35,18 +35,19 @@
 3. **Install dependencies:**
   ```bash
      npm install
-
+ ```
 ---
 
 ## ▶️ Running the Application
 Start the development server with:
 
-bash
-Copy
-Edit
+```bash
 npm start
+```
 This will launch the app in your browser at:
+```bash
 http://localhost:3000 🚀
+```
 
 🤝 Contributing
 Contributions are welcome! 🍩
