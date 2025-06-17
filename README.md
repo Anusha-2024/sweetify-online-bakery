@@ -49,9 +49,9 @@ This will launch the app in your browser at:
 http://localhost:3000 🚀
 ```
 
-##🤝 Contributing
--Contributions are welcome! 🍩
--Please fork the repository and open a pull request with your changes.
+## 🤝 Contributing
+- Contributions are welcome! 🍩
+- Please fork the repository and open a pull request with your changes.
 
-##📄 License
--This project is licensed under the MIT License.
+## 📄 License
+- This project is licensed under the MIT License.
